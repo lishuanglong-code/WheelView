@@ -1,2 +1,2 @@
-# UniversalWheelView
-A UniversalWheelView for Android.
+# WheelView
+A WheelView for Android.
